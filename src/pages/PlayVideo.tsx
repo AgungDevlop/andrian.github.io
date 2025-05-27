@@ -18,7 +18,7 @@ export function PlayVideo() {
   // Array of URLs with video ID from the list
   const videoBaseUrls = [
     "https://my.doobs.my.id/",
-    "https://id.doobs.my.id/"
+    "https://xvx.doobs.my.id/"
   ];
 
   
