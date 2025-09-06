@@ -18,6 +18,22 @@ const router = createBrowserRouter([
         element: <PlayVideo />,
       },
       {
+        path: "e/:id", // Rute dinamis berdasarkan ID
+        element: <PlayVideo />,
+      },
+      {
+        path: "f/:id", // Rute dinamis berdasarkan ID
+        element: <PlayVideo />,
+      },
+      {
+        path: "v/:id", // Rute dinamis berdasarkan ID
+        element: <PlayVideo />,
+      },
+      {
+        path: "d/:id", // Rute dinamis berdasarkan ID
+        element: <PlayVideo />,
+      },
+      {
         path: "download", // Rute untuk halaman Download
         element: <Download />,
       },
