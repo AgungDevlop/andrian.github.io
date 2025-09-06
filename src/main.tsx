@@ -8,6 +8,7 @@ import { Contact } from "./pages/Contact.tsx";
 import { PlayVideo } from "./pages/PlayVideo.tsx";
 import { Download } from "./pages/Download.tsx"; // Impor halaman Download
 
+
 const router = createBrowserRouter([
   {
     path: "/", // Rute utama
