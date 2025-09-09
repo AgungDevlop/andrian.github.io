@@ -4,12 +4,13 @@ export function Download() {
   const videoUrl = sessionStorage.getItem('videoUrl'); // Get video URL from session storage
   const videoTitle = sessionStorage.getItem('videoTitle'); // Get video title from session storage
 
-  // Array of URLs for pop-under links
-  const randomUrls = [
-    "https://aliveprompt.com/b_3/V.0/Po3/p/vRbdmlV/JVZ/Dp0R1VOjTiIFzGN/TkU/y/L/TmUX5SMKjaMM1BNmTEMq",
-    "https://luglawhaulsano.net/4/8673906"
+const randomUrls = [
+    'https://enviousgarbage.com/HE9TFh',
+    'https://obqj2.com/4/9587058',
+    'https://aviatorreproducesauciness.com/2082665',
+    'https://viidedss.com/dc/?blockID=388556'
   ];
-
+  
   const handleDownload = () => {
     if (videoUrl) {
       // Open the video URL in a new tab
