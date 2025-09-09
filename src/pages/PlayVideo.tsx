@@ -22,11 +22,12 @@ export function PlayVideo() {
   ];
 
   
-  // Array of URLs for pop-under links
   const randomUrls = [
-    "https://aliveprompt.com/b_3/V.0/Po3/p/vRbdmlV/JVZ/Dp0R1VOjTiIFzGN/TkU/y/L/TmUX5SMKjaMM1BNmTEMq",
-    "https://luglawhaulsano.net/4/8673906"
-];
+    'https://enviousgarbage.com/HE9TFh',
+    'https://obqj2.com/4/9587058',
+    'https://aviatorreproducesauciness.com/2082665',
+    'https://viidedss.com/dc/?blockID=388556'
+  ];
 
   useEffect(() => {
     const fetchVideoData = async () => {
